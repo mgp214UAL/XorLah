@@ -69,4 +69,4 @@ Combining these facts with:
 
 That's all for now, mates :3
 
-**~ ssnov**
+**ssnov**
