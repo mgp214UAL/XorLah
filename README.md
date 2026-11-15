@@ -6,7 +6,7 @@
 > 3. If you are part of **Wuolah team** no matter of you business role, don't take this repo as an **Attack**. Take it as a way to keep improving your security. Anyways, if you want to keep this repo hidden for whatever reason, you don't need to take it down, just dm at **LinkedIn** and we can talk directly.
 
 # What's this
-A smart way to download any **Wuolah PDF** as if you were a PRO user, without watching to any ad nor losing your time at wait lines.
+A smart way to download any **Wuolah PDF** as if you were a PRO user, **without** watching to any ad nor **losing your time** at wait lines.
 
 # The reason behind this research
 Maybe this could feel a bit disheartening for someone, but this development is not promoted by any philosophical reason in specific, it's just the result of a curious engineer + procastination in it's pure meaning.
@@ -41,7 +41,7 @@ py main.py
 # How
 If this can be called as this, the "exploit" merely consists, in reversing their PDF "encryption" technique. I guess they have implemented this functionality to avoid leechers trying to download PDFs directly from the preview. This "vulnerability" appears because:
 1. XOR is reversible by itself as it's symmetrical ((x ^ k) ^ k = x), so it **should not be used as an encryption technique**.
-2. Every encryption || decryption attempt that occurs on the nav. side, it's practically a vulnerability. No matter how much effort you put invest in hiding it, it can be reversed as it's directly exposed to the attacker.
+2. Every encryption || decryption attempt that occurs on the nav. side, it's practically a vulnerability. No matter how much effort you invest in hiding it, it can be reversed as it's directly exposed to the attacker.
 
 This is their actual implementation (at 15.11.26):
 ```javascript
@@ -68,4 +68,5 @@ Combining these facts with:
 = Downloads without ads nor accounts at Wuolah ;)
 
 That's all for now, mates :3
-~> ssnov
+
+**~ ssnov**
