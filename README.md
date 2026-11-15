@@ -65,7 +65,8 @@ function o(e) {
 Combining these facts with:
 1. The URI of a file can be fully reconstructed as it's identifier is a visual 8 digits value (appended at the last hyphen of the preview, e.g: 12345678)
 2. There is no need to be authenticated to access to the encrypted PDF.
-= Downloads without ads nor accounts at Wuolah ;)
+
+ - - = **Downloads without ads nor accounts at Wuolah** ;)
 
 That's all for now, mates :3
 
